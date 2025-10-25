@@ -52,8 +52,6 @@
 ### لوحة التحكم
 ![Dashboard](images/dashboard.png)
 
-### شاشة المندوب (Retail)
-![Retail App](images/retail_app.png)
+![Retail App](images/orders.png)
 
-### شاشة الجملة (Wholesale)
-![Wholesale App](images/wholesale_app.png)
+![Wholesale App](images/report.png)
