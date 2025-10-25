@@ -1,55 +1,54 @@
-# 💼 مشروع نظام إدارة مبيعات (جملة + تجزئة)
+# 💼 Sales Management System (Wholesale & Retail)
 
-نظام متكامل لإدارة عمليات البيع (جملة وتجزئة)، التحصيلات، العملاء، والمندوبين، مع لوحة تحكم ويب وتطبيق جوال يعمل أوفلاين ويدعم المزامنة عند الاتصال.
-
----
-
-## 🎯 الهدف
-
-- تنظيم عمليات **المبيعات (جملة + تجزئة)**.  
-- إدارة **العملاء، الطلبات، الفواتير، والتحصيلات**.  
-- متابعة **زيارات المندوبين والمخزون (السيارة)**.  
-- إصدار **تقارير دقيقة لإدارة الأداء والأرباح**.
+A comprehensive system to manage **sales operations (wholesale & retail)**, collections, customers, and sales representatives, with a web dashboard and mobile app that works offline and syncs automatically when online.
 
 ---
 
-## 👤 الأدوار الرئيسية
+## 🎯 Goal
 
-### 🧑‍💼 المدير (Admin – الويب)
-- إدارة المستخدمين، العملاء، المنتجات، الأصناف، العملات.  
-- إدارة الطلبات، الفواتير، وسندات الدفع.  
-- تقارير تفصيلية لأداء المندوبين والمخزون.  
-- التحكم في الصلاحيات والأدوار.
-
----
-
-### 🚗 مندوب التجزئة (Retail – التطبيق)
-- تسجيل الطلبات والفواتير والتحصيلات.  
-- متابعة العملاء وزياراتهم اليومية.  
-- إدارة **المخزون داخل السيارة**.  
-- استقبال إشعارات فورية بالتحديثات.
+- Organize **sales operations (wholesale + retail)**.  
+- Manage **customers, orders, invoices, and collections**.  
+- Track **sales reps’ visits and inventory (in-vehicle stock)**.  
+- Generate **accurate performance and profit reports**.
 
 ---
 
-### 🚛 مندوب الجملة (Wholesale – التطبيق)
-- إدارة الطلبات الكبيرة وعلاقات العملاء.  
-- تتبع الزيارات والمبيعات.  
-- استقبال إشعارات فورية ومتابعة الأداء.
+## 👤 Main Roles
+
+### 🧑‍💼 Admin (Web Dashboard)
+- Manage users, customers, products, categories, and currencies.  
+- Handle orders, invoices, and payment receipts.  
+- Generate detailed reports on sales reps’ performance and inventory.  
+- Control permissions and roles.
 
 ---
 
-## 🚀 المخرجات
-
-- 💡 نظام متكامل لإدارة المبيعات والتحصيلات.  
-- 🔔 إشعارات وتنبيهات فورية.  
-- 📱 تطبيق جوال للمندوبين يعمل **أوفلاين** ويقوم بالمزامنة تلقائيًا عند الاتصال.  
-- 🖥️ لوحة تحكم ويب شاملة للتقارير والتحليل الإداري.
+### 🚗 Retail Sales Rep (Mobile App)
+- Record orders, invoices, and collections.  
+- Monitor customers and daily visits.  
+- Manage **vehicle inventory**.  
+- Receive instant notifications for updates.
 
 ---
 
-## 🖼 صور المشروع
+### 🚛 Wholesale Sales Rep (Mobile App)
+- Handle large orders and manage client relationships.  
+- Track visits and sales activities.  
+- Receive real-time notifications and monitor performance.
 
-### لوحة التحكم
+---
+
+## 🚀 Deliverables
+
+- 💡 Fully integrated sales and collection management system.  
+- 🔔 Real-time notifications and alerts.  
+- 📱 Mobile app for sales reps with **offline support** and automatic synchronization.  
+- 🖥️ Web dashboard for comprehensive reporting and administrative analytics.
+
+---
+
+## 🖼 Project Screenshots
+
 ![Dashboard](images/dashboard.png)
 
 ![Retail App](images/orders.png)
